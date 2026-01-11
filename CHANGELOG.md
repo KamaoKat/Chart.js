@@ -4,6 +4,10 @@ All notable changes to the "Chart.js" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## 2026.1.0 2026-01-11
+
+Update author infromation.
+
 ## 0.2.1 2023-04-22
 
 Add `galleryBanner` to the vsmarketplace page.

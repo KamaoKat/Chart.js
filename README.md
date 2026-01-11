@@ -8,11 +8,11 @@ Simple and flexible JavaScript charting library for the modern web. Add Chart.js
 
 为设计和开发人员准备的简单、灵活的 JavaScript 图表工具。轻松一点即可向你的HTML文件添加Chart.js图表。
 
-**Homepage/主页**: [`https://xuangeaha.github.io/`](https://xuangeaha.github.io/)
+**Homepage/主页**: [`https://www.xuangeaha.xyz/`](https://www.xuangeaha.xyz/)
 
-**Repository/仓库**: [`https://github.com/Xuangeaha/Chart.js`](https://github.com/Xuangeaha/Chart.js)
+**Repository/仓库**: [`https://github.com/KamaoKat/Chart.js`](https://github.com/KamaoKat/Chart.js)
 
-**Issues/问题**: [`https://github.com/Xuangeaha/Chart.js/issues`](https://github.com/Xuangeaha/Chart.js/issues)
+**Issues/问题**: [`https://github.com/KamaoKat/Chart.js/issues`](https://github.com/KamaoKat/Chart.js/issues)
 
 **Changelog/更新日志**: [`https://marketplace.visualstudio.com/items/XuangeAha.Chartjs/changelog`](https://marketplace.visualstudio.com/items/XuangeAha.Chartjs/changelog)
 
@@ -20,7 +20,7 @@ Simple and flexible JavaScript charting library for the modern web. Add Chart.js
 
 **Download/下载**: [`https://marketplace.visualstudio.com/items?itemName=XuangeAha.Chartjs`](https://marketplace.visualstudio.com/items?itemName=XuangeAha.Chartjs)
 
-**Copyright (c) 2023 XuangeAha(轩哥啊哈OvO)**
+**Copyright (c) 2023-2026 KamaoKat(卡猫kat,XuangeAha(轩哥啊哈OvO))**
 
 # How To Use 使用方法
 
